@@ -3,9 +3,9 @@
 # PROJE: Rating Product & Sorting Reviews in Amazon
 ###################################################
 
-###################################################
+#####################################################
 # İş Problemi
-###################################################
+#####################################################
 
 # E-ticaretteki en önemli problemlerden bir tanesi ürünlere satış sonrası verilen puanların doğru şekilde hesaplanmasıdır.
 # Bu problemin çözümü e-ticaret sitesi için daha fazla müşteri memnuniyeti sağlamak, satıcılar için ürünün öne çıkması ve satın
